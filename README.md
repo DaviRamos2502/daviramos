@@ -1,5 +1,5 @@
 
-Meu nome é Davi Ramos 
+Meu nome é **Davi Ramos**
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
